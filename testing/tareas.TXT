@@ -1,2 +1,3 @@
 - Resolvemos problemas de navegabilidad de una página a la otra.
 - Creamos un programa para comprar productos en la página.
+- Reportamos faltas de ortografía en los textos del front-end.
