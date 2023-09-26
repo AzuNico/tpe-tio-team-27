@@ -11,5 +11,3 @@ Leonardo Nahuel Grosso- Desarrollador Back-end (nahuelgrosso1982@gmail.com)
 Valentin Fonseca - Desarrollador Front-end(Fonsecavili@gmail.com)
 
 Lucio Armanelli - Desarrollador Front-end(lucioarma4@gmail.com)
-
-Fatima Carolina Nuñez - Tester (carolinanunez94@gmail.com)
