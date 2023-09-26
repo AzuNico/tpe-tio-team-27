@@ -12,4 +12,7 @@ puedan rastrear el estado de sus compras
 tercer agregado de codigo
    -Agregando funcion 
 
+Agregue segunda funcion, mejore el codigo
+
+
     
