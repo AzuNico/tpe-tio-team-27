@@ -20,3 +20,5 @@ Juana Egea - tester o QA (juanyegea2@gmail.com)
 
 Fatima Carolina Nuñez - Tester (carolinanunez94@gmail.com)
 >>>>>>> b8d7c88bbad4f61fa94714d2b4ee4b4facecbfc1
+
+Texto de modificacion del ejercicio 7
