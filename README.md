@@ -6,7 +6,7 @@ Nicolás Azuaga - Lider de Proyecto. (azuaganicolas@gmail.com)
 
 Joaquin Morales - Desarrollador Back-end (joacomora2014@gmail.com)
 
-Leonardo Nahuel Grosso- Desarrollador Back-end (nahuelgrosso1982@gmail.com)
+Leonardo Nahuel Grosso- Desarrollador Back-end (nahuelgrosso1982@gmail.com) From Miramar city
 
 Valentin Fonseca - Desarrollador Front-end(Fonsecavili@gmail.com)
 
