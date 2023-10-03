@@ -11,12 +11,11 @@ Leonardo Nahuel Grosso- Desarrollador Back-end (nahuelgrosso1982@gmail.com) From
 Valentin Fonseca - Desarrollador Front-end(Fonsecavili@gmail.com)
 
 Lucio Armanelli - Desarrollador Front-end(lucioarma4@gmail.com)
-<<<<<<< HEAD
-=======
 
 Solana Doñate - tester o QA (soldonate15@gmail.com)
 
 Juana Egea - tester o QA (juanyegea2@gmail.com)
 
 Fatima Carolina Nuñez - Tester (carolinanunez94@gmail.com)
->>>>>>> b8d7c88bbad4f61fa94714d2b4ee4b4facecbfc1
+
+Se agrega cambio de pruebas (Nicolás Azuaga)
