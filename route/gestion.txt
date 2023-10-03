@@ -1,0 +1,18 @@
+
+
+desarrollo de codigo para autenticar usuarios y datos de perfil
+
+implementamos sistema de gestion
+    - inventario
+
+ampliamos el codigo 
+Añadir un mecanismo de seguimiento de pedidos para que los usuarios
+puedan rastrear el estado de sus compras
+
+tercer agregado de codigo
+   -Agregando funcion 
+
+Agregue segunda funcion, mejore el codigo
+
+
+    
